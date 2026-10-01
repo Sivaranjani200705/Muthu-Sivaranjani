@@ -12,4 +12,8 @@ AI-powered comic generation project.
 - Character Design
 
 ## 👩‍💻 Created By
-Muthu-Sivaranjani
+Muthu Sivaranjani M
+Mercy Grace A
+Vinoli Belsiya J
+Kanisha S
+Subatharaniya M

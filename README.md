@@ -1,7 +1,7 @@
 # ComicCraft AI - AI Comic Generator 🚀
 
 ## 🎬 Demo Video
-▶️ **Watch Project Demo Here:** [Click to Watch Demo - ComicCraft AI](https://drive.google.com/file/d/1AOx4UpshRDySd0NBORkLBUzo4omq8W3w/view?usp=sharing)
+▶️ **Watch Project Demo Here:** [Click to Watch Demo - ComicCraft AI](https://drive.google.com/file/d/1x1sJ1PlyR9DGbbwILeuGuyNIn_6uTUMO/view?usp=sharing)
 
 ## 📄 Project Overview
 AI-powered comic generation project.
